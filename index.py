@@ -22,7 +22,34 @@
 #         i*=-1
 #         print(i)
 #3
-
+# a = int(input('A = '))
+# b = int(input('B = '))
+# while a > b:
+#     while a % 2 == 1:
+#         print(a)
+#         a -= 1
+#---------------------------------------------------------
+# a = int(input())
+# b = int(input())
+# for i in range(a - (a + 1) % 2, b - b % 2, -2):
+#     print(i, end=' ')
+#4
+# import random
+# n = int(input('N = '))
+# x = random.randrange(n)
+# a=1
+# sum1=0
+# sum=0
+# for i in range(n-a+1):
+#     if i==x:
+#         continue
+#     sum+=i
+#     i+=1
+# for i in range(n-a+1):
+#     sum1+=i
+#     i+=1
+# print(x)
+# print(sum1-sum )
 
 # git init 
 # git add main.py README.md
