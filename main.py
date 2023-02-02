@@ -48,6 +48,9 @@ print('Сумма:', sum)
 print('Количество: ', kol)
 
 
+print("branch work")
+
+
 
 
 
