@@ -1,8 +1,8 @@
-print("ozgeriz")
-# print("Hello world!")
-# print("Hello Git")
-print("Laba")
-print("help me")
+# print("ozgeriz")
+# # print("Hello world!")
+# # print("Hello Git")
+# print("Laba")
+# print("help me")
 #1
 # a = int(input('A = '))
 # b = int(input('B = '))
