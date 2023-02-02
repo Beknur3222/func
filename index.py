@@ -24,13 +24,6 @@
 #3
 # a = int(input('A = '))
 # b = int(input('B = '))
-# while a > b:
-#     while a % 2 == 1:
-#         print(a)
-#         a -= 1
-#---------------------------------------------------------
-# a = int(input())
-# b = int(input())
 # for i in range(a - (a + 1) % 2, b - b % 2, -2):
 #     print(i, end=' ')
 #4
